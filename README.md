@@ -1,1 +1,2 @@
 # kodland-projekt
+Chciałbym stworzyć bota discordowego, który pomoże promować ekologiczne działania poprzez rozpoznawanie zdjęć i quizy. Bedzie mozna przesylac zdjecie i jak eko to punkty jak nie to cos tam powie zeby cos innego itp plus quiz i tez puinkty za dobra a za zla nir ma punktow i tez cos tam powie. moze jeszcze ciekawostki ale nie wiem. i oczywiscie mozna wyswietlic ranking ale jeszcze nie wiem jak to zrobic zeby wyswietlalo jaki uzytkownik
